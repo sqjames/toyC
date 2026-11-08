@@ -1,0 +1,9 @@
+# Ignore VSCode settings
+.vscode/
+
+# Ignore our build files
+build/
+vcpkg_installed/
+
+# Ignore user settings
+CMakeUserPresets.json
