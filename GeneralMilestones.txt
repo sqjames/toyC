@@ -1,0 +1,22 @@
+1 - Lexer/Parser
+
+2 - Tree-walking interpreter
+
+3 - Tables and metatables
+
+4 - Standard library
+
+4.5 Run tests on the tree-walker with the official Lua 5.4 test suite
+
+5 - Bytecode compiler + VM
+5.5 Run tests on the VM
+
+6 - GC
+
+- Late stage/stretch goals -
+
+7*- Coroutines
+
+8*- Benchmark against LuaJIT
+
+9*- C++ Embedding API
